@@ -1,0 +1,9 @@
+C:\Users\Giovanni\Desktop\testec#\apps\gwlauncher\bin\Debug\gwlauncher.exe
+C:\Users\Giovanni\Desktop\testec#\apps\gwlauncher\bin\Debug\gwlauncher.pdb
+C:\Users\Giovanni\Desktop\testec#\apps\gwlauncher\obj\Debug\gwlauncher.csprojAssemblyReference.cache
+C:\Users\Giovanni\Desktop\testec#\apps\gwlauncher\obj\Debug\gwlauncher.Form1.resources
+C:\Users\Giovanni\Desktop\testec#\apps\gwlauncher\obj\Debug\gwlauncher.Properties.Resources.resources
+C:\Users\Giovanni\Desktop\testec#\apps\gwlauncher\obj\Debug\gwlauncher.csproj.GenerateResource.cache
+C:\Users\Giovanni\Desktop\testec#\apps\gwlauncher\obj\Debug\gwlauncher.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Desktop\testec#\apps\gwlauncher\obj\Debug\gwlauncher.exe
+C:\Users\Giovanni\Desktop\testec#\apps\gwlauncher\obj\Debug\gwlauncher.pdb
