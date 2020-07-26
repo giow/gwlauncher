@@ -5,4 +5,4 @@ Um launcher básico para usar no servidor e deixar mais profissional!
 
 Não se esqueça de mudar o link do discord e o de connect do fivem!
 
-![Alt text](https://prnt.sc/tolqez?raw=true "LAUNCHER")
+!LAUNCHER](https://prnt.sc/tolqez?raw=true "LAUNCHER")
